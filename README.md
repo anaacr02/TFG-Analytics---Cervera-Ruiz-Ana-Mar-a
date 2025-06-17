@@ -5,7 +5,7 @@ Este repositorio contiene el código y los datos anonimizados utilizados en el T
 
 ## Contenido
 
-- `TFG Analytics - Cervera Ruiz, Ana Maria`: Notebook principal con el análisis completo.
+- `TFG Analytics - Cervera Ruiz, Ana Maria.ipynb`: Notebook principal con el análisis completo.
 - `RESPUESTAS.xlsx`: Dataset utilizado con respuestas a la encuesta.
 - `README.md`: Este archivo con la explicación general.
 
